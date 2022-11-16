@@ -1,5 +1,4 @@
 {
-        "name": "Java 14",
         "image": "temurin-19-lein-jammy",
     
         // Set *default* container specific settings.json values on container create.
